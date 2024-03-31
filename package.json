@@ -1,0 +1,33 @@
+{
+  "name": "codescriptcraftpro",
+  "version": "1.0.2",
+  "description": "codescriptcraftpro",
+  "type": "module",
+  "main": "codescriptcraftpro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/graynickelsx317/codescriptcraftpro"
+  },
+  "website": "https://github.com/graynickelsx317/codescriptcraftpro.git",
+  "keywords": [
+    "codescriptcraftpro"
+  ],
+  "author": "graynickelsx317",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/graynickelsx317/codescriptcraftpro/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/graynickelsx317/codescriptcraftpro#readme",
+  "dependencies": {
+    "codecraftguru": "1.0.2",
+    "devcodewhiz": "1.0.2",
+    "programcodecraftsman": "1.0.2"
+  }
+}
